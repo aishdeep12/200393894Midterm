@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">200393894Midterm</string>
+    <array name="spinnerUserChoice">
+        <item name="Rock">Rock</item>
+        <item name="Paper">Paper</item>
+        <item name="Scissor">Scissor</item>
+
+
+    </array>
+
+</resources>
